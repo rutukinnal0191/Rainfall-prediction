@@ -1,13 +1,13 @@
-RAINFALL PREDICTION USING LOGISTIC REGRESSION
+#RAINFALL PREDICTION USING LOGISTIC REGRESSION
 
-Project Overview
+#Project Overview
 
 Rainfall prediction plays an important role in agriculture and weather planning.
 This project focuses on predicting whether rainfall will occur or not using Logistic Regression, a classification algorithm.
 
 The project uses historical weather data, applies basic preprocessing, builds a prediction model, and visualizes the results using histograms.
 
-OBJECTIVES:
+#OBJECTIVES:
 
 This project aims to:
 
@@ -17,7 +17,7 @@ Understand model prediction distribution using visualization
 
 Apply machine learning concepts on real-world weather data
 
-DATASET INFORMATION:
+#DATASET INFORMATION:
 
 The dataset contains weather-related features such as:
 
@@ -31,7 +31,7 @@ Pressure
 
 Rainfall (target variable)
 
-TECHONOLOGIES USED:
+#TECHONOLOGIES USED:
 
 Python
 
@@ -43,7 +43,7 @@ Matplotlib
 
 Scikit-learn
 
-PROJECT WORKFLOW:
+#PROJECT WORKFLOW:
 
 Import Libraries
 
@@ -69,7 +69,7 @@ Trained the model using training data
 
 Generated predictions on test 
 
-VISUALISATION:
+#VISUALISATION:
 
 Prediction Distribution
 
@@ -78,7 +78,7 @@ Plotted a histogram to visualize rainfall prediction results.
 Insight:
 The histogram shows how predicted rainfall and non-rainfall classes are distributed.
 
-KEY LEARNINGS:
+#KEY LEARNINGS:
 
 Logistic Regression can be used for binary classification problems
 
