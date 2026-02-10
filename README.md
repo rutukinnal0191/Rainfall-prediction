@@ -100,7 +100,6 @@ Install required libraries
 pip install pandas numpy matplotlib scikit-learn
 
 Launch Jupyter Notebook
-jupyter notebook
 
 Open and run
 rainfall_prediction.ipynb
