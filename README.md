@@ -87,3 +87,20 @@ Proper data preparation is crucial for accurate predictions
 Histograms help in understanding binary prediction distribution
 
 Machine learning models can be applied to real-world weather data
+
+# How To Run The Project:
+
+Clone the repository
+git clone https://github.com/your-username/rainfall-prediction.git
+
+Navigate into the project folder
+cd rainfall-prediction
+
+Install required libraries
+pip install pandas numpy matplotlib scikit-learn
+
+Launch Jupyter Notebook
+jupyter notebook
+
+Open and run
+rainfall_prediction.ipynb
