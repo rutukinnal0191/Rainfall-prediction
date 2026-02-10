@@ -1,4 +1,5 @@
 RAINFALL PREDICTION USING LOGISTIC REGRESSION
+
 Project Overview
 
 Rainfall prediction plays an important role in agriculture and weather planning.
@@ -42,7 +43,7 @@ Matplotlib
 
 Scikit-learn
 
-Project Workflow
+PROJECT WORKFLOW:
 
 Import Libraries
 
