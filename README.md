@@ -31,7 +31,7 @@ Pressure
 
 Rainfall (target variable)
 
-#TECHONOLOGIES USED:
+# TECHONOLOGIES USED:
 
 Python
 
@@ -43,7 +43,7 @@ Matplotlib
 
 Scikit-learn
 
-#PROJECT WORKFLOW:
+# PROJECT WORKFLOW:
 
 Import Libraries
 
@@ -69,7 +69,7 @@ Trained the model using training data
 
 Generated predictions on test 
 
-#VISUALISATION:
+# VISUALISATION:
 
 Prediction Distribution
 
@@ -78,7 +78,7 @@ Plotted a histogram to visualize rainfall prediction results.
 Insight:
 The histogram shows how predicted rainfall and non-rainfall classes are distributed.
 
-#KEY LEARNINGS:
+# KEY LEARNINGS:
 
 Logistic Regression can be used for binary classification problems
 
