@@ -1,9 +1,9 @@
-# RAINFALL PREDICTION USING LOGISTIC REGRESSION
+# RAINFALL PREDICTION 
 
 # Project Overview
 
 Rainfall prediction plays an important role in agriculture and weather planning.
-This project focuses on predicting whether rainfall will occur or not using Logistic Regression, a classification algorithm.
+This project focuses on predicting whether rainfall will occur or not using Logistic Regression and later improved accuracy by usihng random forest, a classification algorithm.
 
 The project uses historical weather data, applies basic preprocessing, builds a prediction model, and visualizes the results using histograms.
 
@@ -11,7 +11,7 @@ The project uses historical weather data, applies basic preprocessing, builds a 
 
 This project aims to:
 
-Predict rainfall occurrence using Logistic Regression
+Predict rainfall occurrence using Logistic Regression and random forest
 
 Understand model prediction distribution using visualization
 
@@ -61,9 +61,9 @@ Converted target variable into binary form
 
 Split dataset into training and testing sets
 
-Model Building (Logistic Regression)
+Model Building (Logistic Regression Random Forest)
 
-Applied Logistic Regression for rainfall prediction
+Applied Logistic Regression and Random Forest for rainfall prediction
 
 Trained the model using training data
 
