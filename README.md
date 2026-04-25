@@ -43,6 +43,8 @@ Matplotlib
 
 Scikit-learn
 
+pickel
+
 # PROJECT WORKFLOW:
 
 Import Libraries
@@ -74,8 +76,6 @@ Generated predictions on test
 Logistic Regression can be used for binary classification problems
 
 Proper data preparation is crucial for accurate predictions
-
-Histograms help in understanding binary prediction distribution
 
 Machine learning models can be applied to real-world weather data
 
