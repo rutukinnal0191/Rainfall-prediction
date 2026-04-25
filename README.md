@@ -69,15 +69,6 @@ Trained the model using training data
 
 Generated predictions on test 
 
-# VISUALISATION:
-
-Prediction Distribution
-
-Plotted a histogram to visualize rainfall prediction results.
-
-Insight:
-The histogram shows how predicted rainfall and non-rainfall classes are distributed.
-
 # KEY LEARNINGS:
 
 Logistic Regression can be used for binary classification problems
