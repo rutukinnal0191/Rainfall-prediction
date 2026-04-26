@@ -79,18 +79,26 @@ Proper data preparation is crucial for accurate predictions
 
 Machine learning models can be applied to real-world weather data
 
-# How To Run The Project:
+# Rainfall Prediction Model
 
-Clone the repository
-git clone https://github.com/your-username/rainfall-prediction.git
+This project predicts rainfall using Logistic Regression.
 
-Navigate into the project folder
-cd rainfall-prediction
+## How to use
 
-Install required libraries
-pip install pandas numpy matplotlib scikit-learn
+1. Clone the repo:
+   git clone <your-link>
 
-Launch Jupyter Notebook
+2. Install dependencies:
+   pip install -r requirements.txt
 
-Open and run
-rainfall_prediction.ipynb
+3. Run prediction:
+   python predict.py
+
+## Reusability
+
+Model and scaler are saved as pickle files.
+No need to retrain the model.
+
+You can also import the function:
+
+from predict import predict_rain
